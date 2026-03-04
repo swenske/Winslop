@@ -126,12 +126,11 @@ Some changes may require sign-out or restart to fully take effect.
 ## FAQ
 
 <details>
-<summary><strong>What’s the easiest way to share or restore my selections?</strong></summary>
+  <summary><strong>What’s the easiest way to share or restore my selections?</strong></summary>
 
-Use the new **Export/Import** feature for TreeList selections.
+  Use the new <strong>Export/Import</strong> feature for TreeList selections.
 
-<p><em>Note:</em> This was the behavior in older builds.</p>
-If you place **`winslop-selection.sel`** in the same folder as **`Winslop.exe`**, Winslop will detect it automatically and offer an import.
+  <p><em>Note:</em> Placing <code>winslop-selection.sel</code> next to <code>Winslop.exe</code> was how this worked in older builds. Newer versions use the Export/Import flow (and will guide you through importing the file).</p>
 </details>
 
 <details>
